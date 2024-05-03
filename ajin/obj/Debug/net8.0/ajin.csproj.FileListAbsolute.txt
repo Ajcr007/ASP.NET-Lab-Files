@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\bin\Debug\net8.0\ajin.exe
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\bin\Debug\net8.0\ajin.deps.json
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\bin\Debug\net8.0\ajin.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\bin\Debug\net8.0\ajin.dll
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\bin\Debug\net8.0\ajin.pdb
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.dll
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\refint\ajin.dll
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.pdb
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ajin.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documents\Ajin\VS\ajin\obj\Debug\net8.0\ref\ajin.dll

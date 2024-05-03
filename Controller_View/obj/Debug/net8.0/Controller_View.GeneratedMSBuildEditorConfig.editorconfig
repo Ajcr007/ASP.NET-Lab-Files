@@ -1,0 +1,27 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Controller_View
+build_property.RootNamespace = Controller_View
+build_property.ProjectDir = C:\Users\DELL\OneDrive\Documents\Ajin\Visual Studio\Controller_View\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\OneDrive\Documents\Ajin\Visual Studio\Controller_View
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/OneDrive/Documents/Ajin/Visual Studio/Controller_View/views/Bookstore/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcQm9va3N0b3JlXEFib3V0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Ajin/Visual Studio/Controller_View/views/Bookstore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcQm9va3N0b3JlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "jXCklgpgPXZkYnXAJh3QDnP+Z2AZAKCapvEtFeqKFuw=",
+  "Source": "Controller_FileResult",
+  "BasePath": "_content/Controller_FileResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controller_FileResult\\wwwroot",
+      "Source": "Controller_FileResult",
+      "ContentRoot": "C:\\Users\\DELL\\OneDrive\\Documents\\Ajin\\VS\\Controller_FileResult\\wwwroot\\",
+      "BasePath": "_content/Controller_FileResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

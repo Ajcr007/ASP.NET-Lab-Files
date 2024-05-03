@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ActionSelector_core_mvc.props" />
+</Project>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\Ajin\\VS\\Controller_FileResult\\wwwroot\\Contract_Act.pdf",
+      "PackagePath": "staticwebassets\\Contract_Act.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Controller_FileResult.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Controller_FileResult.props",
+      "PackagePath": "build\\Controller_FileResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Controller_FileResult.props",
+      "PackagePath": "buildMultiTargeting\\Controller_FileResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Controller_FileResult.props",
+      "PackagePath": "buildTransitive\\Controller_FileResult.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

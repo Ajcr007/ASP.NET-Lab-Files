@@ -1,0 +1,35 @@
+﻿@model Form_Tag_Helper.Models.Employee;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-action="Index" asp-controller="Home" method="post">
+                <label asp-for="Ename"></label>
+                <input asp-for="Ename" placeholder="Enter your Name" class="form-control" />
+                <br/>
+                <input asp-for="Eid" placeholder="Enter your ID" class="form-control" />
+                <br/>
+                <select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control">
+                    <option value="">Select Gender</option>
+                </select>
+                <br/>
+                <label asp-for="Mstatus">Marrital Status: </label>
+                <input type="radio" asap-for="Mstatus" value="Yes" name="maritalStatus" /> Yes
+                <input type="radio" asap-for="Mstatus" value="No" name="maritalStatus" /> No
+                <br/>
+
+                <textarea asp-for="Description" rows="5" class="form-control" placeholder="Enter Details"></textarea>
+
+                <input type="submit" value="submit" class="btn btn-outline-primary" />
+            </form>
+        </div>
+    </div>
+</div>

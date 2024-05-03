@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ActionSelector_core_mvc.props" />
+</Project>

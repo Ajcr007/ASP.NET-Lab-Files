@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @*
+    @ViewData["name"];
+    <br/>
+    @ViewData["author"];
+    <br/>
+    @ViewData["price"];
+    <br/>
+
+    @foreach (var item in (string[])ViewData["bname"])
+    {
+        <h1>@item</h1>
+    }
+
+    @foreach(var item1 in (List<string>)ViewData["list1"])
+    {
+        <h1>@item1</h1>
+    }
+    *@
+
+    @ViewBag.name
+    <br/>
+    @ViewBag.author
+    <br/>
+    @ViewBag.price
+    <br/>
+
+    @foreach (var item in (string[])ViewBag.bname)
+    {
+        <h1>@item</h1>
+    }
+
+    @foreach (var item1 in (List<string>)ViewBag.list)
+    {
+        <h1>@item1</h1>
+    }
+}
